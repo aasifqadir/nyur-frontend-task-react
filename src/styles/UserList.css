@@ -1,0 +1,10 @@
+.user-list{
+    position: relative;
+    top: 80px;
+    font-family: cursive;
+    font-size: 24px;
+    font-weight: 600;
+    background-color: rgb(178, 190, 105);
+    text-align: center;
+    padding: 10px;
+}
